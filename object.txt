@@ -1,0 +1,2 @@
+window object and document object:
+        Window object is the first thing that is loaded in the browser.T window object has all the properties of the window.Whereas document object that will be loaded inside the window object.It also has the properties if document object.By using window object name we can access the data data in the window.By using document object name we can access the data inside the documents. 
