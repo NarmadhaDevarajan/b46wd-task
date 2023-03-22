@@ -1,1 +1,3 @@
-welcome
+HTTP1.1 VS HTTP2
+       http1.1 loads the operations one after the another. so if one request is not loaded then the other request canaot be loaded until the previos request compkete the oerations.It blocks all the operations until the previous request conplete their work.Because of this it would take time to complete the task.Its the main drawback of this http1.1.
+       whereas HTTP2 use single TCP connection to handle all request.It can handle multiple request at a time.It doesnt block other request.So it takes quick time to complete the request ans responds.
